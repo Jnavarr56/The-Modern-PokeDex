@@ -39,4 +39,3 @@ The landing page will present an interesting loading animation of a spinning Pok
 [![Image from Gyazo](https://i.gyazo.com/6a56918f7a8d12abf2dd40c6fb7f3366.gif)](https://gyazo.com/6a56918f7a8d12abf2dd40c6fb7f3366)
 
 
-
