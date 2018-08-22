@@ -21,6 +21,7 @@ Type in the desired pokemon in the search bar OR click "Pokemon Search" for a ra
 
 The landing page will present an interesting loading animation of a spinning Pokeball along with Japanese text and a computer voice introducing the user.
 
+[![Image from Gyazo](https://i.gyazo.com/9990d16de0bdc6fe112b0afea59f9f34.gif)](https://gyazo.com/9990d16de0bdc6fe112b0afea59f9f34)
 
 
 
