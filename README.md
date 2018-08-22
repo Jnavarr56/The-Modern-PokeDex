@@ -8,13 +8,18 @@ This is a dynamic dashboard that uses the official pokemon API to present genera
   - HTML5
   - Artyom.js (speech synthesis package)
 
-# Deployed Using Github Pages
+## Deployed Using Github Pages
 
   - jnavarr56.github.io
 
 ### How to Use
 
 Type in the desired pokemon in the search bar OR click "Pokemon Search" for a random pokemon.
+
+
+### Landing Page
+
+The landing page will present an interesting loading animation of a spinning Pokeball along with Japanese text and a computer voice introducing the user.
 
 
 
